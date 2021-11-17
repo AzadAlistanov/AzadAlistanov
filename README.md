@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 💻   I'm open to new job opportunities<br>
-📚   And much into JavaScript
+📚   And much into JavaScript<br>
 📬   Contact me at: alistanov.azad@mail.ru (or via messengers below)
 
 ---
