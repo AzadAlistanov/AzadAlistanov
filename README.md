@@ -14,7 +14,7 @@
 <br>
 
 ---
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzadAlistanov&show_icons=true&theme=Black)](https://github.com/AzadAlistanov/)
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzadAlistanov&heme=dark)](https://github.com/AzadAlistanov/)
 
 [telegram]: https://t.me/alistanov
 [whatsapp]: https://wa.me/79640164840
