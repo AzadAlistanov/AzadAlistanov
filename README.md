@@ -4,7 +4,7 @@
 📬   Contact me at: alistanov.azad@mail.ru (or via messengers below)
 
 ---
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzadAlistanov&theme=dark&show_icons=true)](https://github.com/AzadAlistanov/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AzadAlistanov&theme=dark&show_icons=true)](https://github.com/AzadAlistanov/)
 
 ### Contacts and Links:
 
