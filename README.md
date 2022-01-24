@@ -21,7 +21,6 @@
 <img align="left" alt="AzadAlistanov | JS" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwTptG2fcxUHseXwhwHKcCSJRky8cR_BVazbBmhp675qwhU-1kNnymYwUhkytgBatgLo&usqp=CAU" />
 <br>
 <br>
----
 
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzadAlistanov&theme=dark&show_icons=true)](https://github.com/AzadAlistanov/)
 
