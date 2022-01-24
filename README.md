@@ -6,7 +6,7 @@
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AzadAlistanov&theme=dark&show_icons=true)](https://github.com/AzadAlistanov/)
 
-### Contacts and Links:
+### Links to messengers:
 
 [<img align="left" alt="AzadAlistanov | Telegram" width="35px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="AzadAlistanov | WhatsApp" width="35px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
